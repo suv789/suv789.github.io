@@ -18,7 +18,8 @@ This template is set up to showcase your best work. You can easily customize the
 *A comprehensive full-stack data analytics platform for retail chain operations. Features AI-powered natural language queries, multi-page dashboards, and real-time profitability analysis across 14 stores, 40 products, and 2,000+ customers.*
 
 ### Enterprise Retail Lakehouse Analytics
-*Transforming AdventureWorks transactional data into a governed lakehouse and interactive business intelligence reports.*
+*Transforming AdventureWorks transactional data into a governed lakehouse and interactive business intelligence reports.
+his project uses the AdventureWorks2022 OLTP sample database as its source. Eight source tables are exported as CSV, ingested into Databricks, transformed through Bronze, Silver and Gold layers, and modeled as a star schema for Power BI reporting.*
 
 ### SQL Data Warehouse and Analytics 
 *This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Design as a portfolio Project, it highlights industry best practices in data engineering and analytics.*
@@ -27,6 +28,11 @@ This template is set up to showcase your best work. You can easily customize the
 *An end-to-end analytics project built on the Olist Brazilian E-Commerce and Marketing Funnel datasets, covering the complete workflow from raw data ingestion -> analytical modeling -> SQL insights -> Power BI dashboards.
 
 This project demonstrates how real-world analytics teams design data models, validate data, derive insights, and communicate results through interactive dashboards.*
+
+### Supply Chain Analytics Dashboard | Power BI
+* This project is an interactive Supply Chain Analytics Dashboard built in Power BI to analyze procurement spend, supplier performance, purchase price variance, delivery efficiency, freight cost, and logistics performance.
+
+Dashboard gives decision-makers single view of supply chain health and helps identify supplier risk, procurement variance, delayed shipments, carrier SLA gaps, and improvement opportunities.*
 
 
 ## 🛠️ Skills
