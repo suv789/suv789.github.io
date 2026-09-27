@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Suvajit Bera - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,24 +14,29 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### AI-Powered-Retail-Chain-Dashboard
+*A comprehensive full-stack data analytics platform for retail chain operations. Features AI-powered natural language queries, multi-page dashboards, and real-time profitability analysis across 14 stores, 40 products, and 2,000+ customers.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Enterprise Retail Lakehouse Analytics
+*Transforming AdventureWorks transactional data into a governed lakehouse and interactive business intelligence reports.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### SQL Data Warehouse and Analytics 
+*This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Design as a portfolio Project, it highlights industry best practices in data engineering and analytics.*
+
+### Olist Ecommerce End-To-End Data Analytics
+*An end-to-end analytics project built on the Olist Brazilian E-Commerce and Marketing Funnel datasets, covering the complete workflow from raw data ingestion -> analytical modeling -> SQL insights -> Power BI dashboards.
+
+This project demonstrates how real-world analytics teams design data models, validate data, derive insights, and communicate results through interactive dashboards.*
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly etc.
+- **Data Analysis**: SQL, Python (Pandas), PySpark, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Cloud & Big Data**: Microsoft Fabric, Databricks, Snowflake, Delta LAKE.
 
 ## 💡 How to Use This Template
 
